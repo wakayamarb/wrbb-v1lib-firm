@@ -25,6 +25,21 @@ Wakayama.rb Ruby Board V1 library Firmware
                    回路基板番号
     
 
+
+  Version ARIDA2 - 1.13 (2015/7/19) f3
+  
+           |   |   |      |      |
+           |   |   |      |   ByteCode Format Number
+           |   |   |      |
+           |   |   |    作成日
+           |   |   |
+           |   | バージョン番号
+           |   |
+           |  回路基板番号
+           |
+         ファームウァエ名称
+
+
 ------
   It is a source of mruby board of Wakayama.rb.
 
