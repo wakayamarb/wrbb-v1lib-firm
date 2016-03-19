@@ -11,7 +11,7 @@ Wakayama.rb Ruby Board V1 library Firmware
   mruby ver1.1.0 -> ByteCode Format Ver.0003
   mruby ver1.2.0 -> ByteCode Format Ver.0003
     
-    WAKAYAMA.RB Board Ver.ARIDA5-1.52(2016/3/19)f3(256KB), mruby 1.2.0
+WAKAYAMA.RB Board Ver.ARIDA5-1.52(2016/3/19)f3(256KB), mruby 1.2.0
                         |      |      |      |   |
                         |      |      |      |   |
                         |      |      |      |  RAM Size
@@ -23,21 +23,6 @@ Wakayama.rb Ruby Board V1 library Firmware
                         | Firmware Version
                         |
                    回路基板番号
-  
-  mruby ver1.2.0 -> ByteCode Format Ver.0003
-
-  Version ARIDA2 - 1.13 (2015/7/19) f3
-  
-           |   |   |      |      |
-           |   |   |      |   ByteCode Format Number
-           |   |   |      |
-           |   |   |    作成日
-           |   |   |
-           |   | バージョン番号
-           |   |
-           |  回路基板番号
-           |
-         ファームウァエ名称
 
 ------
   It is a source of mruby board of Wakayama.rb.
