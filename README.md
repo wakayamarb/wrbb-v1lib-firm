@@ -1,6 +1,5 @@
-# wrbb-v1lib-firm
 Wakayama.rb Ruby Board V1 library Firmware
-
+------
 　Wakayama.rb のV1ライブラリを使ったRubyボードのソースです。
 　V1ライブラリとは、特殊電子回路株式会社さんの無償版FreeRXduinoライブラリを示します。
 
