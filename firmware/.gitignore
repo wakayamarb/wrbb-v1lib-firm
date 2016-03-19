@@ -1,0 +1,13 @@
+# /
+/.git
+
+*.suo
+*.o
+*.out
+*.elf
+*.lst
+*.map
+*.mot
+*/*.o
+*/*.o
+*.bin
