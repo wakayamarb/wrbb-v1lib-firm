@@ -10,7 +10,7 @@ Wakayama.rb Ruby Board V1 library Firmware
   mruby ver1.0.0 -> ByteCode Format Ver.0002
   mruby ver1.1.0 -> ByteCode Format Ver.0003
   mruby ver1.2.0 -> ByteCode Format Ver.0003
-    
+        
 WAKAYAMA.RB Board Ver.ARIDA5-1.52(2016/3/19)f3(256KB), mruby 1.2.0
                         |      |      |      |   |
                         |      |      |      |   |
@@ -23,7 +23,7 @@ WAKAYAMA.RB Board Ver.ARIDA5-1.52(2016/3/19)f3(256KB), mruby 1.2.0
                         | Firmware Version
                         |
                    回路基板番号
-    
+        
 
 
 
