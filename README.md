@@ -38,7 +38,7 @@ WAKAYAMA.RB Board Ver.ARIDA5-1.52(2016/3/19)f3(256KB), mruby 1.2.0
            |   | バージョン番号
            |   |
                         |      |      |      |  RAM Size
-WAKAYAMA.RB Board Ver.ARIDA5-1.52(2016/3/19)f3(256KB), mruby 1.2.0
+  WAKAYAMA.RB Board Ver.ARIDA5-1.52(2016/3/19)f3(256KB), mruby 1.2.0
                         |      |      |      |   |
                         |      |      |      |   |
                         |      |      |      |  RAM Size
