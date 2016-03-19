@@ -25,51 +25,14 @@ Wakayama.rb Ruby Board V1 library Firmware
                        回路基板番号
 
 
-
-
-  Version ARIDA2 - 1.13 (2015/7/19) f3
-  
-           |   |   |      |      |
-           |   |   |      |   ByteCode Format Number
-           |   |   |      |
-           |   |   |    作成日
-           |   |   |
-           |   | バージョン番号
-           |   |
-                        |      |      |      |  RAM Size
-    WAKAYAMA.RB Board Ver.ARIDA5-1.52(2016/3/19)f3(256KB), mruby 1.2.0
-                        |      |      |      |   |
-                        |      |      |      |   |
-                        |      |      |      |  RAM Size
-                        |      |      |      |
-                        |      |      |   ByteCode Format Number
-                        |      |      |
-                        |      |    作成日
-                        |      |
-                        | Firmware Version
-                        |
-                   回路基板番号
-                        |      |      |      |
-                        |      |      |   ByteCode Format Number
-                        |      |      |
-                        |      |    作成日
-                        |      |
-                        | Firmware Version
-           |  回路基板番号
-           |
-         ファームウァエ名称
-
-
+How to use Wakayama.rb board
 ------
-  It is a source of mruby board of Wakayama.rb.
+http://www.slideshare.net/MinaoYamamoto/wakayamarb-arida-4  
 
---
-##How to use Wakayama.rb board
-http://www.slideshare.net/MinaoYamamoto/wakayamarb-arida-4
---
-##Link
+Link
+------
 [特殊電子回路株式会社さんの無償版FreeRXduinoライブラリ](http://rx.tokudenkairo.co.jp/freesoft.html)
 
---
-##License
+License
+------
  Wakayama.rb-Ruby-Board-V1-library-Firmware is released under the [MIT License](MITL).
