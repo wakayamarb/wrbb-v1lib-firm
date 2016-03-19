@@ -24,7 +24,8 @@ Wakayama.rb Ruby Board V1 library Firmware
                         | Firmware Version
                         |
                    回路基板番号
-    
+
+
 
 
   Version ARIDA2 - 1.13 (2015/7/19) f3
