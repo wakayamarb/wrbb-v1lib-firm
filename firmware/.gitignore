@@ -7,7 +7,5 @@
 *.elf
 *.lst
 *.map
-*.mot
 */*.o
 */*.o
-*.bin
