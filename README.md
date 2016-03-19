@@ -23,7 +23,7 @@ WAKAYAMA.RB Board Ver.ARIDA5-1.52(2016/3/19)f3(256KB), mruby 1.2.0
                         | Firmware Version
                         |
                    回路基板番号
-
+    
 ------
   It is a source of mruby board of Wakayama.rb.
 
