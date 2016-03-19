@@ -37,6 +37,13 @@ Wakayama.rb Ruby Board V1 library Firmware
            |   |   |
            |   | バージョン番号
            |   |
+                        |      |      |      |  RAM Size
+                        |      |      |      |
+                        |      |      |   ByteCode Format Number
+                        |      |      |
+                        |      |    作成日
+                        |      |
+                        | Firmware Version
            |  回路基板番号
            |
          ファームウァエ名称
